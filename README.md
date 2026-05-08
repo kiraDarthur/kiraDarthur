@@ -1,38 +1,38 @@
-# Olá, eu sou o Arthur Fonseca! 👋
+# Hi there, I'm Arthur Fonseca! 👋
 
 <div align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180em" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="180em" />
+  <img src="https://vercel.app" alt="Most Used Languages" height="180em" />
 </div>
 
-### 🚀 Sobre Mim
-Iniciante apaixonado por **Python e RPA**, focado em automação de processos e solução de problemas através do código. Atualmente a desenvolver projetos para organização de ficheiros e web scraping.
+### 🚀 About Me
+Beginner developer passionate about **Python and RPA**, focused on process automation and solving problems through code. Currently developing projects for file organization and web scraping.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
-**Linguagens & Web**
+**Languages & Web**  
 ![Python](https://shields.io)
 ![Solidity](https://shields.io)
 ![HTML5](https://shields.io)
 
-**Automação (RPA)**
+**Automation (RPA)**  
 ![Selenium](https://shields.io)
 ![UiPath](https://shields.io)
 
-**Ferramentas**
+**Tools**  
 ![PyCharm](https://shields.io)
 ![Git](https://shields.io)
 ![VS Code](https://shields.io)
 
 ---
 
-### 📫 Vamos conversar?
+### 📫 Let's connect!
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Gmail](https://shields.io)](mailto:arthurfavieira@gmail.com)
 
 ---
 <p align="center">
-  <i>"O sucesso é o somatório de pequenos esforços repetidos dia após dia."</i>
+  <i>"Success is the sum of small efforts, repeated day in and day out."</i>
 </p>

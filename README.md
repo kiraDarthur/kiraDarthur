@@ -24,7 +24,7 @@ Beginner developer passionate about **Python and RPA**, focused on process autom
 ---
 
 ### 📫 Let's connect!
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+- **LinkedIn:** [://linkedin.com]([https://www.://linkedin.com](https://pt.linkedin.com/in/arthurfonsecappt))
 - **Email:** arthurfavieira@gmail.com
 
 ---
